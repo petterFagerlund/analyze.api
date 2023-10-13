@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZXgY1mE16aetMLFvR2/RQSBfhqxeVLlfJGvVd667rrMLR1IOpSM/7LK+yBcQ47MU1vVRXN+ofsHeARGTO0giKQ==",
+  "success": true,
+  "projectFilePath": "/Users/petterfagerlund/RiderProjects/Analyze.Domain/Analyze.Presentation/Analyze.Presentation.csproj",
+  "expectedPackageFiles": [
+    "/Users/petterfagerlund/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0-rc.1.23419.4/microsoft.extensions.configuration.abstractions.8.0.0-rc.1.23419.4.nupkg.sha512",
+    "/Users/petterfagerlund/.nuget/packages/microsoft.extensions.primitives/8.0.0-rc.1.23419.4/microsoft.extensions.primitives.8.0.0-rc.1.23419.4.nupkg.sha512",
+    "/Users/petterfagerlund/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/petterfagerlund/.nuget/packages/polly/7.2.4/polly.7.2.4.nupkg.sha512",
+    "/Users/petterfagerlund/.nuget/packages/polly.extensions.http/3.0.0/polly.extensions.http.3.0.0.nupkg.sha512",
+    "/Users/petterfagerlund/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

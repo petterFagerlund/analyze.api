@@ -1,0 +1,15 @@
+/Users/petterfagerlund/RiderProjects/Analyze.Domain/Analyze.Application/bin/Debug/net6.0/Analyze.Application.deps.json
+/Users/petterfagerlund/RiderProjects/Analyze.Domain/Analyze.Application/bin/Debug/net6.0/Analyze.Application.dll
+/Users/petterfagerlund/RiderProjects/Analyze.Domain/Analyze.Application/bin/Debug/net6.0/ref/Analyze.Application.dll
+/Users/petterfagerlund/RiderProjects/Analyze.Domain/Analyze.Application/bin/Debug/net6.0/Analyze.Application.pdb
+/Users/petterfagerlund/RiderProjects/Analyze.Domain/Analyze.Application/bin/Debug/net6.0/Analyze.dll
+/Users/petterfagerlund/RiderProjects/Analyze.Domain/Analyze.Application/bin/Debug/net6.0/Analyze.pdb
+/Users/petterfagerlund/RiderProjects/Analyze.Domain/Analyze.Application/obj/Debug/net6.0/Analyze.Application.csproj.AssemblyReference.cache
+/Users/petterfagerlund/RiderProjects/Analyze.Domain/Analyze.Application/obj/Debug/net6.0/Analyze.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petterfagerlund/RiderProjects/Analyze.Domain/Analyze.Application/obj/Debug/net6.0/Analyze.Application.AssemblyInfoInputs.cache
+/Users/petterfagerlund/RiderProjects/Analyze.Domain/Analyze.Application/obj/Debug/net6.0/Analyze.Application.AssemblyInfo.cs
+/Users/petterfagerlund/RiderProjects/Analyze.Domain/Analyze.Application/obj/Debug/net6.0/Analyze.Application.csproj.CoreCompileInputs.cache
+/Users/petterfagerlund/RiderProjects/Analyze.Domain/Analyze.Application/obj/Debug/net6.0/Analyze.Application.csproj.CopyComplete
+/Users/petterfagerlund/RiderProjects/Analyze.Domain/Analyze.Application/obj/Debug/net6.0/Analyze.Application.dll
+/Users/petterfagerlund/RiderProjects/Analyze.Domain/Analyze.Application/obj/Debug/net6.0/ref/Analyze.Application.dll
+/Users/petterfagerlund/RiderProjects/Analyze.Domain/Analyze.Application/obj/Debug/net6.0/Analyze.Application.pdb

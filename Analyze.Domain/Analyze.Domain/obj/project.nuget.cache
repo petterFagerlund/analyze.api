@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "HcayYMjXp4oezJUM7uRXvTls88f9go1rkroBIhHbUYkyiGGrUhPmDVz6yKeT/MOf53EYbY4pzqIxGhQHkTcA0Q==",
+  "success": true,
+  "projectFilePath": "/Users/petterfagerlund/RiderProjects/Analyze.Domain/Analyze.Domain/Analyze.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/petterfagerlund/.nuget/packages/microsoft.extensions.configuration/8.0.0-rc.1.23419.4/microsoft.extensions.configuration.8.0.0-rc.1.23419.4.nupkg.sha512",
+    "/Users/petterfagerlund/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0-rc.1.23419.4/microsoft.extensions.configuration.abstractions.8.0.0-rc.1.23419.4.nupkg.sha512",
+    "/Users/petterfagerlund/.nuget/packages/microsoft.extensions.configuration.fileextensions/8.0.0-rc.1.23419.4/microsoft.extensions.configuration.fileextensions.8.0.0-rc.1.23419.4.nupkg.sha512",
+    "/Users/petterfagerlund/.nuget/packages/microsoft.extensions.configuration.json/8.0.0-rc.1.23419.4/microsoft.extensions.configuration.json.8.0.0-rc.1.23419.4.nupkg.sha512",
+    "/Users/petterfagerlund/.nuget/packages/microsoft.extensions.configuration.usersecrets/8.0.0-rc.1.23419.4/microsoft.extensions.configuration.usersecrets.8.0.0-rc.1.23419.4.nupkg.sha512",
+    "/Users/petterfagerlund/.nuget/packages/microsoft.extensions.fileproviders.abstractions/8.0.0-rc.1.23419.4/microsoft.extensions.fileproviders.abstractions.8.0.0-rc.1.23419.4.nupkg.sha512",
+    "/Users/petterfagerlund/.nuget/packages/microsoft.extensions.fileproviders.physical/8.0.0-rc.1.23419.4/microsoft.extensions.fileproviders.physical.8.0.0-rc.1.23419.4.nupkg.sha512",
+    "/Users/petterfagerlund/.nuget/packages/microsoft.extensions.filesystemglobbing/8.0.0-rc.1.23419.4/microsoft.extensions.filesystemglobbing.8.0.0-rc.1.23419.4.nupkg.sha512",
+    "/Users/petterfagerlund/.nuget/packages/microsoft.extensions.primitives/8.0.0-rc.1.23419.4/microsoft.extensions.primitives.8.0.0-rc.1.23419.4.nupkg.sha512",
+    "/Users/petterfagerlund/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/petterfagerlund/.nuget/packages/polly/7.2.4/polly.7.2.4.nupkg.sha512",
+    "/Users/petterfagerlund/.nuget/packages/polly.extensions.http/3.0.0/polly.extensions.http.3.0.0.nupkg.sha512",
+    "/Users/petterfagerlund/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/petterfagerlund/.nuget/packages/system.text.encodings.web/8.0.0-rc.1.23419.4/system.text.encodings.web.8.0.0-rc.1.23419.4.nupkg.sha512",
+    "/Users/petterfagerlund/.nuget/packages/system.text.json/8.0.0-rc.1.23419.4/system.text.json.8.0.0-rc.1.23419.4.nupkg.sha512"
+  ],
+  "logs": []
+}
